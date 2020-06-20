@@ -174,7 +174,7 @@ def online_compute_score(self, _fieldnames, name_postfix, cur_idx, shengyushu):
 
 欢迎转载，转载请注明出处，本文版权归属 "欧赛安全" !
 
-2020.06.20
+2020.06.19
 
 [1]: https://www.threetong.com/ceming/baziceming/
 [2]: https://hanyu.baidu.com/
