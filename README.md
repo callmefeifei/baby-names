@@ -172,7 +172,7 @@ def online_compute_score(self, _fieldnames, name_postfix, cur_idx, shengyushu):
 
 - 网站地址: http://www.ossec.cn
 
-欢迎转载，转载请注明出处，本文版权归属 "欧赛安全" !
+<div align=center>欢迎转载，转载请注明出处，本文版权归属 "欧赛安全" !</div>
 
 2020.06.19
 
