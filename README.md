@@ -5,11 +5,13 @@
 PS：还没宝宝的准奶爸们，先star，以后用的到。: )
 
 ## 使用说明
-- **该代码运行在python2.x环境, 代码逻辑简单、易二次修改, 适合各阶段Python程序猿.**
+- **首先克隆项目到本地：git clone https://github.com/callmefeifei/baby-names.git**
 
-- **运行代码前，请先安装依赖库.**
+- **安装以下依赖库.**
 
 > sudo pip install -i http://pypi.douban.com/simple/ --trusted-host=pypi.douban.com -r docs/requirements.txt
+
+- **在Python2.x环境运行**
 
 - **参数配置**
 
