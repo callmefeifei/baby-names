@@ -1,0 +1,3 @@
+*.pyc
+sftp-config.json
+.DS_Store

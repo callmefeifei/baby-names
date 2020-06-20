@@ -1,0 +1,4 @@
+pypinyin
+cjklib
+BeautifulSoup4
+gevent
