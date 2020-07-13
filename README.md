@@ -5,7 +5,8 @@
 PS：还没宝宝的准奶爸们，先Star，以后用的到。: )
 
 ## 使用说明
-- **首先克隆项目到本地：git clone https://github.com/callmefeifei/baby-names.git**
+- **首先克隆项目到本地：
+> git clone https://github.com/callmefeifei/baby-names.git**
 
 - **安装以下依赖库.**
 
